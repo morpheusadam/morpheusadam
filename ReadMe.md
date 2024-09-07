@@ -30,4 +30,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=morpheusadam&icon=2&color=3)](https://visitcount.itsvg.in)
 
+## 📞 Contact Me
+<div align="center">
+    <a href="https://www.linkedin.com/in/hesam-ahmadpour" style="color: red; font-size: 20px; text-decoration: none;">LinkedIn</a> |
+    <a href="https://t.me/morpheusadam" style="color: red; font-size: 20px; text-decoration: none;">Telegram</a>
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
