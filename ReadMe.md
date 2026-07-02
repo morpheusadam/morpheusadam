@@ -105,8 +105,14 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=morpheusadam&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morpheusadam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top languages" />
+<!-- Static, self-generated cards (via GitHub Action) — never rate-limited -->
+<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
+<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-used languages by commit" />
 
 <br/>
 
@@ -115,10 +121,6 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=morpheusadam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=morpheusadam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 
 </div>
 
@@ -138,24 +140,7 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 
 ---
 
-## 🚀 Featured Projects &nbsp;<sub>(most-starred, live)</sub>
-
-<div align="center">
-
-<a href="https://github.com/morpheusadam/playtube">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morpheusadam&repo=playtube&theme=tokyonight&hide_border=true" alt="PlayTube" />
-</a>
-<a href="https://github.com/morpheusadam/LaravelCommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morpheusadam&repo=LaravelCommerce&theme=tokyonight&hide_border=true" alt="LaravelCommerce" />
-</a>
-<a href="https://github.com/morpheusadam/rtl-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morpheusadam&repo=rtl-dashboard&theme=tokyonight&hide_border=true" alt="RTL Dashboard" />
-</a>
-<a href="https://github.com/morpheusadam/anypay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morpheusadam&repo=anypay&theme=tokyonight&hide_border=true" alt="AnyPay" />
-</a>
-
-</div>
+## 🚀 Featured Projects &nbsp;<sub>(most-starred, live star counts)</sub>
 
 <div align="center">
 
