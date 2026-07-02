@@ -11,6 +11,12 @@
 <!-- ░░ Animated header banner ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Morpheus%20Adam&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20PHP%20%C2%B7%20Laravel%20%C2%B7%20Go%20%C2%B7%20AI&descAlignY=56&descSize=18" alt="Morpheus Adam — Full-Stack Web Developer" />
 
+<!-- ░░ Greeting ░░ -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" align="center" />
+  &nbsp;Hi, I'm Morpheus Adam
+</h2>
+
 <!-- ░░ Animated typing headline ░░ -->
 <a href="https://sam.zeonic.me">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4C9AFF&center=true&vCenter=true&width=650&lines=PHP+%26+Laravel+Engineer;Go+%2F+Golang+Enthusiast;AI+SaaS+%26+LLM+Integration;E-commerce%2C+CMS+%26+Dev+Tools;RTL+%2F+Persian-first+Products;Open-source+%26+Cheerful+Hacker" alt="Typing SVG" />
@@ -28,21 +34,25 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center" /> &nbsp; About Me
 
 I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and cheerful hacker from **Iran**. I design and ship production-grade web applications with a focus on **PHP · Laravel · Go**, and I'm increasingly building **AI-powered SaaS** and automation on top of them.
 
-- 🧩 **Core work:** Laravel & PHP backends, modular architecture, clean OOP, and REST APIs — backed by **MySQL/MariaDB · Redis · Linux · Docker**.
-- 🛒 **Domain:** **e-commerce platforms, video/content CMS, payment gateways, and WordPress/WooCommerce** plugins & themes.
-- 🤖 **AI & automation:** **LLM integration** (OpenAI, Anthropic Claude, Gemini), **AI SaaS**, chatbots, and **n8n** workflow automation.
-- 🌐 **Specialty:** **RTL / Persian-first** experiences and internationalized products.
-- 📫 **Reach me:** **morpheusadam95@gmail.com** · **[sam.zeonic.me](https://sam.zeonic.me)**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="18" /> &nbsp;**Core work:** Laravel & PHP backends, modular architecture, clean OOP, and REST APIs — backed by **MySQL/MariaDB · Redis · Linux · Docker**.
 
-> 🔎 **Keywords:** PHP developer · Laravel developer · Golang developer · full-stack engineer · e-commerce · video CMS · payment gateways · WordPress/WooCommerce · AI SaaS · LLM/OpenAI/Claude integration · n8n automation · RTL / Persian · API development · open source.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="18" /> &nbsp;**Domain:** **e-commerce platforms, video/content CMS, payment gateways, and WordPress/WooCommerce** plugins & themes.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" /> &nbsp;**AI & automation:** **LLM integration** (OpenAI, Anthropic Claude, Gemini), **AI SaaS**, chatbots, and **n8n** workflow automation.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="18" /> &nbsp;**Specialty:** **RTL / Persian-first** experiences and internationalized products.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="18" /> &nbsp;**Reach me:** **morpheusadam95@gmail.com** · **[sam.zeonic.me](https://sam.zeonic.me)**
+
+> **Keywords:** PHP developer · Laravel developer · Golang developer · full-stack engineer · e-commerce · video CMS · payment gateways · WordPress/WooCommerce · AI SaaS · LLM/OpenAI/Claude integration · n8n automation · RTL / Persian · API development · open source.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="center" /> &nbsp; Tech Stack
 
 <div align="center">
 
@@ -63,7 +73,7 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Databases & Infra**
+**Databases & Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -81,7 +91,7 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 
 ---
 
-## 🤖 AI & Automation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" align="center" /> &nbsp; AI & Automation
 
 <div align="center">
 
@@ -95,26 +105,17 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 
 </div>
 
-- 🧠 **LLM integration & AI SaaS** — text, chat, image, voice & video generation (see **[nightai / MagicAI](https://github.com/morpheusadam/nightai)**).
-- 🔗 **RAG, prompt engineering & agents** — building assistant-style features and tool-using workflows.
-- ⚙️ **Automation** — **n8n** pipelines, Telegram bots, and self-hosted AI/dev-ops glue.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" /> &nbsp;**LLM integration & AI SaaS** — text, chat, image, voice & video generation (see **[nightai / MagicAI](https://github.com/morpheusadam/nightai)**).
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="18" /> &nbsp;**RAG, prompt engineering & agents** — assistant-style features and tool-using workflows.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" /> &nbsp;**Automation** — **n8n** pipelines, Telegram bots, and self-hosted AI / dev-ops glue.
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center" /> &nbsp; GitHub Analytics
 
 <div align="center">
-
-<!-- Static, self-generated cards (via GitHub Action) — never rate-limited -->
-<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
-<img src="https://raw.githubusercontent.com/morpheusadam/morpheusadam/profile-summary-card-output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-used languages by commit" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=morpheusadam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -126,7 +127,7 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" align="center" /> &nbsp; Contribution Snake
 
 <div align="center">
 
@@ -140,30 +141,28 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 
 ---
 
-## 🚀 Featured Projects &nbsp;<sub>(most-starred, live star counts)</sub>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" /> &nbsp; Featured Projects &nbsp;<sub>(most-starred, live star counts)</sub>
 
 <div align="center">
 
-| Project | ⭐ | What it is | Stack |
+| Project | Stars | What it is | Stack |
 | :--- | :---: | :--- | :--- |
-| **[🎬 PlayTube](https://github.com/morpheusadam/playtube)** | ![](https://img.shields.io/github/stars/morpheusadam/playtube?style=flat&label=&color=ffca28) | Fast, secure self-hosted **video CMS / YouTube-style** platform | PHP · JS |
-| **[🛒 LaravelCommerce](https://github.com/morpheusadam/LaravelCommerce)** | ![](https://img.shields.io/github/stars/morpheusadam/LaravelCommerce?style=flat&label=&color=ffca28) | Full-featured **Laravel 11 e-commerce** (storefront + admin) | Laravel |
-| **[📊 RTL Dashboard](https://github.com/morpheusadam/rtl-dashboard)** | ![](https://img.shields.io/github/stars/morpheusadam/rtl-dashboard?style=flat&label=&color=ffca28) | Responsive **RTL admin dashboard** template for Laravel 11 | Laravel |
-| **[🛡️ SpoonBoy](https://github.com/morpheusadam/SpoonBoy)** | ![](https://img.shields.io/github/stars/morpheusadam/SpoonBoy?style=flat&label=&color=ffca28) | Complete **V2Ray/Xray** subscription + sing-box toolkit | Configs |
-| **[💳 AnyPay](https://github.com/morpheusadam/anypay)** | ![](https://img.shields.io/github/stars/morpheusadam/anypay?style=flat&label=&color=ffca28) | **PHP/Laravel payments** — 40+ gateways (banks, wallets, BNPL) | PHP · Laravel |
-| **[🤖 TeleGroupBot](https://github.com/morpheusadam/laravel-management-telegram-bot)** | ![](https://img.shields.io/github/stars/morpheusadam/laravel-management-telegram-bot?style=flat&label=&color=ffca28) | Laravel **Telegram group-management** & moderation bot | Laravel |
-| **[⛓️ BlockchainAi](https://github.com/morpheusadam/BlockchainAi)** | ![](https://img.shields.io/github/stars/morpheusadam/BlockchainAi?style=flat&label=&color=ffca28) | Go implementation of the **Cortex** decentralized AI blockchain | Go |
-| **[📱 Elanak](https://github.com/morpheusadam/elanak)** | ![](https://img.shields.io/github/stars/morpheusadam/elanak?style=flat&label=&color=ffca28) | Laravel/PHP **SMS & OTP** package (multi-provider) | PHP |
-| **[🎓 Iranian University](https://github.com/morpheusadam/iranian-univercity)** | ![](https://img.shields.io/github/stars/morpheusadam/iranian-univercity?style=flat&label=&color=ffca28) | Laravel 10 **university management** system | Laravel |
-| **[🏪 Laravel Shop Generator](https://github.com/morpheusadam/laravel-shop-generator)** | ![](https://img.shields.io/github/stars/morpheusadam/laravel-shop-generator?style=flat&label=&color=ffca28) | Multi-language **e-commerce CMS** generator | Laravel |
-| **[🎫 php-Tickets](https://github.com/morpheusadam/php-Tickets)** | ![](https://img.shields.io/github/stars/morpheusadam/php-Tickets?style=flat&label=&color=ffca28) | Self-hosted **support & ticketing** help desk (RTL-ready) | PHP |
-| **[✨ nightai / MagicAI](https://github.com/morpheusadam/nightai)** | ![](https://img.shields.io/github/stars/morpheusadam/nightai?style=flat&label=&color=ffca28) | Laravel **AI SaaS** — text, chat, image, voice & video | Laravel · AI |
+| **[PlayTube](https://github.com/morpheusadam/playtube)** | ![](https://img.shields.io/github/stars/morpheusadam/playtube?style=flat&label=&color=ffca28) | Fast, secure self-hosted **video CMS / YouTube-style** platform | PHP · JS |
+| **[LaravelCommerce](https://github.com/morpheusadam/LaravelCommerce)** | ![](https://img.shields.io/github/stars/morpheusadam/LaravelCommerce?style=flat&label=&color=ffca28) | Full-featured **Laravel 11 e-commerce** (storefront + admin) | Laravel |
+| **[RTL Dashboard](https://github.com/morpheusadam/rtl-dashboard)** | ![](https://img.shields.io/github/stars/morpheusadam/rtl-dashboard?style=flat&label=&color=ffca28) | Responsive **RTL admin dashboard** template for Laravel 11 | Laravel |
+| **[SpoonBoy](https://github.com/morpheusadam/SpoonBoy)** | ![](https://img.shields.io/github/stars/morpheusadam/SpoonBoy?style=flat&label=&color=ffca28) | Complete **V2Ray / Xray** subscription + sing-box toolkit | Configs |
+| **[AnyPay](https://github.com/morpheusadam/anypay)** | ![](https://img.shields.io/github/stars/morpheusadam/anypay?style=flat&label=&color=ffca28) | **PHP / Laravel payments** — 40+ gateways (banks, wallets, BNPL) | PHP · Laravel |
+| **[TeleGroupBot](https://github.com/morpheusadam/laravel-management-telegram-bot)** | ![](https://img.shields.io/github/stars/morpheusadam/laravel-management-telegram-bot?style=flat&label=&color=ffca28) | Laravel **Telegram group-management** & moderation bot | Laravel |
+| **[BlockchainAi](https://github.com/morpheusadam/BlockchainAi)** | ![](https://img.shields.io/github/stars/morpheusadam/BlockchainAi?style=flat&label=&color=ffca28) | Go implementation of the **Cortex** decentralized AI blockchain | Go |
+| **[Elanak](https://github.com/morpheusadam/elanak)** | ![](https://img.shields.io/github/stars/morpheusadam/elanak?style=flat&label=&color=ffca28) | Laravel / PHP **SMS & OTP** package (multi-provider) | PHP |
+| **[Iranian University](https://github.com/morpheusadam/iranian-univercity)** | ![](https://img.shields.io/github/stars/morpheusadam/iranian-univercity?style=flat&label=&color=ffca28) | Laravel 10 **university management** system | Laravel |
+| **[nightai / MagicAI](https://github.com/morpheusadam/nightai)** | ![](https://img.shields.io/github/stars/morpheusadam/nightai?style=flat&label=&color=ffca28) | Laravel **AI SaaS** — text, chat, image, voice & video | Laravel · AI |
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="30" align="center" /> &nbsp; Connect With Me
 
 <div align="center">
 
@@ -179,7 +178,7 @@ I'm **Morpheus Adam** (Hesam Ahmadpour) — a **full-stack web developer** and c
 
 <div align="center">
 
-### ⭐ If my work helps you, a follow & a star go a long way!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" align="center" /> If my work helps you, a follow & a star go a long way!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
