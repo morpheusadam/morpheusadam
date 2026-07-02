@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- ░░ Animated header banner ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Morpheus%20Adam&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20PHP%20%C2%B7%20Laravel%20%C2%B7%20Go%20%C2%B7%20AI&descAlignY=56&descSize=18" alt="Morpheus Adam — Full-Stack Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:4f46e5,72:0ea5e9,100:22d3ee&height=250&section=header&text=Morpheus%20Adam&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20PHP%20%C2%B7%20Laravel%20%C2%B7%20Go%20%C2%B7%20AI%20SaaS&descAlignY=56&descSize=18" width="100%" alt="Morpheus Adam, Full Stack Web Developer" />
 
 <!-- ░░ Greeting ░░ -->
 <h2>
